@@ -1,4 +1,4 @@
-# SVM Parameter Optimization Assignment
+# SVM Parameter Optimization Assignment UCS654
 
 ## 📌 Project Title
 **Support Vector Machine (SVM) Parameter Optimization Using GridSearchCV**
