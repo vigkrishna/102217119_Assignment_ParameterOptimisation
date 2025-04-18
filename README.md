@@ -26,14 +26,11 @@ The dataset used in this assignment includes a classification problem where the 
 ## 📊 Result Table
 The results are summarized in a structured format, showing performance metrics for each parameter combination. The best parameter set is selected based on the highest cross-validated accuracy.
 
-**Example (illustrative):**
-| Kernel | C | Gamma | Accuracy |
-|--------|---|--------|----------|
-| rbf    | 1 | 0.1    | 88.4%    |
-| linear | 1 | -      | 86.7%    |
+![image](https://github.com/user-attachments/assets/d67e67da-35b3-4036-a71c-345ff0c05fe6)
+
 
 ## 📈 Result Graphs
-- ![image](https://github.com/user-attachments/assets/8ddb29e4-d354-492f-a583-89c0d3a040cf)
+![image](https://github.com/user-attachments/assets/8ddb29e4-d354-492f-a583-89c0d3a040cf)
 
 
 ## ✅ Conclusion
