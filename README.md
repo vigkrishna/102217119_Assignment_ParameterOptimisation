@@ -33,8 +33,8 @@ The results are summarized in a structured format, showing performance metrics f
 | linear | 1 | -      | 86.7%    |
 
 ## 📈 Result Graphs
-- **Class Distribution Plot**: A bar chart showing the distribution of the target variable `quality` using `sns.countplot()`.
-- **Learning Curve (if present)**: Displays training vs validation accuracy to detect overfitting or underfitting.
+- ![image](https://github.com/user-attachments/assets/8ddb29e4-d354-492f-a583-89c0d3a040cf)
+
 
 ## ✅ Conclusion
 - SVM performs well with properly scaled features.
